@@ -1,0 +1,47 @@
+.parent{
+    position: relative;
+}
+
+.child{
+    width: 35%;
+    height:450px;
+    margin-left: 400px;
+    size: 20px;
+    border-radius: 10px;
+    background-color:skyblue;
+}
+
+h1{
+    text-align: center;
+    padding-top: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+input{
+    position: absolute;
+    height: 25px;
+    border-radius: 10px;
+    border: none;
+    margin-left: 130px;
+    
+}
+
+label{
+    position: absolute;
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30px;
+}
+
+
+textarea{
+    margin-left: 160px;
+}
+
+button{
+    margin-left: 180px;
+    width: 17%;
+    height: 10%;
+    border: none;
+    border-radius: 10px;
+}
